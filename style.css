@@ -1,0 +1,23 @@
+.grid {
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    border: 1px solid brown;
+    margin: auto;
+}
+
+.snake {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    background-size: 20px 20px;
+    position: absolute;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    background-size: 20px 20px;
+    position: absolute;
+}
